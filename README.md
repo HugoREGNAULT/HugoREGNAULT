@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sehikoo_ (REGNAULT Hugo)
+👋 Hi, I’m @Sheikoo_ (REGNAULT Hugo)
 
 👀 I’m interested in software development, open source projects, design (UI/UX) and the intersection of technology and creativity.
 
