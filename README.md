@@ -2,6 +2,7 @@
 Dev.Web - Discord.py Dev - Graphic/Motion Designer | Student at Ynov Nanterre
 
 ![](https://komarev.com/ghpvc/?username=HugoREGNAULT)
+[![Languages Stats](https://github-readme-stats.vercel.app/api?username=HugoREGNAULT)](https://github.com/anuraghazra/github-readme-stats)
 
 👀 I’m interested in software development, open source projects, design (UI/UX) and the intersection of technology and creativity.
 
