@@ -2,8 +2,6 @@
 Dev.Web - Discord.py Dev - Graphic/Motion Designer | Student at Ynov Nanterre
 
 ![](https://komarev.com/ghpvc/?username=HugoREGNAULT)
-![Stats](https://github-readme-stats.vercel.app/api?username=HugoREGNAULT&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoREGNAULT&size_weight=0.5&count_weight=0.5)
 
 👀 I’m interested in software development, open source projects, design (UI/UX) and the intersection of technology and creativity.
 
@@ -26,15 +24,9 @@ HugoREGNAULT/HugoREGNAULT is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/HugoREGNAULT/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HugoREGNAULT" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/HugoREGNAULT/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoREGNAULT&layout=compact&langs_count=8&card_width=320" />
 </a>
