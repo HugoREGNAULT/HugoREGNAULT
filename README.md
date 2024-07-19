@@ -1,6 +1,8 @@
 👋 Hi, I’m @Sheikoo_ (REGNAULT Hugo)
 Dev.Web - Discord.py Dev - Graphic/Motion Designer | Student at Ynov Nanterre
 
+![](https://komarev.com/ghpvc/?username=HugoREGNAULT)
+
 👀 I’m interested in software development, open source projects, design (UI/UX) and the intersection of technology and creativity.
 
 🌱 I’m currently learning new programming languages and exploring innovative technologies to enhance my skills.
