@@ -27,7 +27,7 @@
 
 ## 🛠️ Projects
 
-### [🚀 Certified Discord Bot](https://your-portfolio-link.com](https://github.com/HugoREGNAULT/PaladiumBot)
+### [🚀 Certified Discord Bot](https://github.com/HugoREGNAULT/PaladiumBot)
 PaladiumBot is an unaffiliated Paladium discord bot, helping to improve your gaming experience, on discord and in lugne!
 The original PaladiumBot is now offline forever. Lots of features, statistics and information thanks to the Paladium API, which is enriched every day.
 
