@@ -39,9 +39,8 @@ A showcase of my creative design projects, including UX/UI designs, prototypes a
 ## 🌐 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HugoREGNAULT)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://razioryn.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoREGNAULT)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
@@ -57,7 +56,7 @@ A showcase of my creative design projects, including UX/UI designs, prototypes a
 Feel free to reach out if you'd like to collaborate on projects or if you have any questions about my work.
 
 - **Email**: contact.hugoregnault@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/HugoREGNAULT)
+- **LinkedIn**: [REGNAULT Hugo](https://www.linkedin.com/in/HugoREGNAULT)
 - **Instagram**: [hugo_rgnt](https://www.instagram.com/hugo_rgnt/)
 
 ---
