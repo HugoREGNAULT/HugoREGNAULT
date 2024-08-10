@@ -4,6 +4,7 @@
 
 🎓 **Double Master Student in Creative Design & Development at Ynov Nanterre**  
 💻 **Passionate Developer** | Shell, Java, JavaScript, TypeScript, Python, HTML, CSS  *and others....*
+
 🤖 **Certified Discord Bot Creator**  
 
 ---
