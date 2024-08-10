@@ -26,14 +26,12 @@
 
 ## 🛠️ Projects
 
-### 1. [Discord Certified Bot](https://github.com/HugoREGNAULT/PaladiumBot)
-A certified Discord bot designed to assist with [specific tasks]. Built using JavaScript, with integrations in Python for more advanced functionalities.
+### [🚀 Certified Discord Bot](https://your-portfolio-link.com](https://github.com/HugoREGNAULT/PaladiumBot)
+PaladiumBot is an unaffiliated Paladium discord bot, helping to improve your gaming experience, on discord and in lugne!
+The original PaladiumBot is now offline forever. Lots of features, statistics and information thanks to the Paladium API, which is enriched every day.
 
-### 2. [Creative Design Portfolio](https://your-portfolio-link.com)
-A showcase of my creative design projects, including UX/UI designs, prototypes, and concept art.
-
-### 3. [Custom Shell Scripts](https://github.com/HugoREGNAULT/shell-scripts)
-A collection of useful shell scripts designed to automate various tasks in Linux environments.
+### [🎨 Creative Design Portfolio](https://razioryn.com)
+A showcase of my creative design projects, including UX/UI designs, prototypes and projects I've helped with as a developer.
 
 ---
 
