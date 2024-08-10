@@ -1,59 +1,67 @@
-<img align="right" src="![](https://komarev.com/ghpvc/?username=HugoREGNAULT)"/>
+# 👋 Hello, I'm Hugo REGNAULT!
 
-<h3 align="center">A passionate Software Developer & Graphic/Motion Designer from Ynov Nanterre (France)</h3>
+### A.k.a **Razioryn**
 
-<br/>
+🎓 **Double Master Student in Creative Design & Development**  
+💻 **Passionate Developer** | Shell, Java, JavaScript, TypeScript, Python, HTML, CSS  
+🤖 **Certified Discord Bot Creator**  
 
-<div align="center">
- 
-🔭 Je travaille actuellement sur **un bot (et un site) Paladium non officiel** *grâçe à leur API* -> [Site](https://paladium-bot.fr/) / [GitHub](https://github.com/HugoREGNAULT/paladium-bot)
-🌱 J'apprends actuellement **HTML, CSS, JavaScript**
-💬 Demande-moi des informations sur **discord.py, Figma, AdobeXD... ou quoi que ce soit [ici](https://github.com/HugoREGNAULT/HugoREGNAULT/issues)**
-⚡ Fun fact **J'adore les Majuscules**
+---
 
+## 🚀 Skills
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:contact.hugoregnault@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/hugo-regnault-8a7979317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://razioryn.fr/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- **Programming Languages**: Shell, Java, JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks & Libraries**: React, Node.js, Express.js
+- **Tools & Platforms**: Git, Docker, Jenkins, Linux
+- **Creative Design**: UX/UI Design, Adobe XD, Figma
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,java" /><br>
-</div>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HugoREGNAULT/HugoREGNAULT/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+## 🛠️ Projects
 
-<hr/>
+### 1. [Discord Bot](https://github.com/HugoREGNAULT/yourbot)
+A certified Discord bot designed to assist with [specific tasks]. Built using JavaScript, with integrations in Python for more advanced functionalities.
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-HugoREGNAULT.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-HugoREGNAULT.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-HugoREGNAULT.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/>
+### 2. [Creative Design Portfolio](https://your-portfolio-link.com)
+A showcase of my creative design projects, including UX/UI designs, prototypes, and concept art.
+
+### 3. [Custom Shell Scripts](https://github.com/HugoREGNAULT/shell-scripts)
+A collection of useful shell scripts designed to automate various tasks in Linux environments.
+
+---
+
+## 🌐 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HugoREGNAULT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoREGNAULT)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+
+---
+
+## 📈 GitHub Stats
+
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoREGNAULT&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoREGNAULT&layout=compact&theme=radical)
+
+---
+
+## 📫 How to reach me
+
+Feel free to reach out if you'd like to collaborate on projects or if you have any questions about my work.
+
+- **Email**: contact.hugoregnault@gmail.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/HugoREGNAULT)
+- **Instagram**: [hugo_rgnt](https://www.instagram.com/hugo_rgnt/)
+
+---
+
+*This README was created with ❤️ by Hugo REGNAULT (A.k.a Razioryn).*
