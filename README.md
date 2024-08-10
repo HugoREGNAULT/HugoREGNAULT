@@ -46,8 +46,8 @@ A showcase of my creative design projects, including UX/UI designs, prototypes a
 
 ## 📈 GitHub Stats
 
-![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoREGNAULT&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoREGNAULT&layout=compact&theme=radical)
+![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HugoREGNAULT&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoREGNAULT&layout=compact&theme=tokyonight)
 
 ---
 
