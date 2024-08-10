@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Hugo REGNAULT!
+# 👋 Hey, I'm Hugo REGNAULT!
 
 ### A.k.a **Razioryn**
 
-🎓 **Double Master Student in Creative Design & Development**  
-💻 **Passionate Developer** | Shell, Java, JavaScript, TypeScript, Python, HTML, CSS  
+🎓 **Double Master Student in Creative Design & Development at Ynov Nanterre**  
+💻 **Passionate Developer** | Shell, Java, JavaScript, TypeScript, Python, HTML, CSS  *and others....*
 🤖 **Certified Discord Bot Creator**  
 
 ---
@@ -11,9 +11,8 @@
 ## 🚀 Skills
 
 - **Programming Languages**: Shell, Java, JavaScript, TypeScript, Python, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express.js
-- **Tools & Platforms**: Git, Docker, Jenkins, Linux
-- **Creative Design**: UX/UI Design, Adobe XD, Figma
+- **Frameworks & Libraries**: React, Node.js
+- **Creative Design**: UX/UI Design, Adobe XD, Figma, Visual Studio Code
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +26,7 @@
 
 ## 🛠️ Projects
 
-### 1. [Discord Bot](https://github.com/HugoREGNAULT/yourbot)
+### 1. [Discord Certified Bot](https://github.com/HugoREGNAULT/PaladiumBot)
 A certified Discord bot designed to assist with [specific tasks]. Built using JavaScript, with integrations in Python for more advanced functionalities.
 
 ### 2. [Creative Design Portfolio](https://your-portfolio-link.com)
