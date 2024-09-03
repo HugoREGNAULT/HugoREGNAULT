@@ -3,7 +3,7 @@
 ### A.k.a **Razioryn**  
 ![Vues du profil](https://komarev.com/ghpvc/?username=your-github-HugoREGNAULT&color=blue)
 
-🎓 **Double Master Student in Creative Design & Development at Ynov Nanterre**  
+🎓 **Master Student in Creative Design at Ynov Nanterre**  
 💻 **Passionate Developer** | Shell, Java, JavaScript, TypeScript, Python, HTML, CSS  *and others....*
 
 🤖 **Certified Discord Bot Creator**  
